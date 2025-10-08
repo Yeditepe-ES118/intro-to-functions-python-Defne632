@@ -1,0 +1,9 @@
+{
+  "tests": [
+    {
+      "name": "Test",
+      "run": "pytest tests/test.py -v",  # Absolute path
+      "points": 100
+    }
+  ]
+}

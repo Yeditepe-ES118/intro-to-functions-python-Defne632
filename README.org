@@ -1,0 +1,17 @@
+#+TITLE: ES118 Lab #2 Assignment
+#+AUTHOR: Ufuk Baler, MSc. & Assoc. Prof. Dr. Fethi Okyar
+#+SUBTITLE: 
+#+STARTUP: overview
+#+REVEAL_THEME: simple
+#+REVEAL_INIT_OPTIONS: slideNumber:"c/t", width:1920, height:1080, navigationMode:"linear", transition:"none"
+#+REVEAL_TITLE_SLIDE: <h1>%t</h1> <h2>%s</h2> <h5>%a</h5>
+#+OPTIONS: timestamp:nil toc:1 num:nil reveal_global_footer:nil
+#+REVEAL_EXTRA_CSS: ../style.css
+#+LATEX_HEADER: \usepackage{amsmath}
+
+- Your aim is to only create a function called ~find_circumference~ which computes and returns the circumference of a rectangle.
+- The function accepts two arguments: ~a~ and ~b~ which represents the two lengths of the rectangle.
+- The function must be written in a new file called ~lab2.py~ inside this repository folder. Otherwise, your work will not be evaluated.
+- Your work will be tested, please make sure only do what is instructed, nothing more than that! 
+
+
